@@ -7,5 +7,6 @@ This website contains a detailed summary of my education and career achievements
 ## Technologies
 
 - HTML
+- CSS
 - JavaScript
 - React
